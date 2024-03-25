@@ -11,7 +11,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>c6ada7a9</title>
+    <title>arul</title>
     <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
